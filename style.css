@@ -48,6 +48,7 @@
     height: 20px;
     color: #757575;
 }
+nav{
     background-image: url(pictures/background.jpg);
     height: 500px;
 }
@@ -89,7 +90,7 @@ nav ul{
 nav li, :not(img){
     padding: 0;
     /* margin-right: 55px;
-    margin-left: 10px; */
+    margin-left: 10px; *
 }
 */
 header img{
